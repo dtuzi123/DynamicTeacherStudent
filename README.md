@@ -4,9 +4,9 @@
 >📋 This is the implementation of Dynamic Self-Supervised Teacher-Student Network Learning
 
 
-# Title : Dynamic Self-Supervised Teacher-Student Network Learning
+# Title : Dynamic Self-Supervised Teacher-Student Network Learning (T-PAMI 2022)
 
-# Paper link : 
+# Paper link : https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9944861
 
 
 
